@@ -1,0 +1,24 @@
+.study-container {
+    padding: 20px;
+  }
+  
+  .notes-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 20px;
+  }
+  
+  .note-card {
+    border: 1px solid #ccc;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+  }
+  
+  .view-file-button {
+    display: inline-block;
+    margin-top: 10px;
+    color: blue;
+    text-decoration: underline;
+  }
+  
