@@ -1,6 +1,6 @@
 # LearnSetu -Online Learning Platform  (LMS)
 
-**LearnSetu** is a feature-rich Online Learning Platform developed by **Khushi Ingale**, **Dhanashri**, and **Bhakti**. The platform is built to streamline the teaching and learning process with dedicated dashboards for Admin, Instructors, and Students.
+**LearnSetu** is a feature-rich Online Learning Platform developed by **Khushi Ingale**. The platform is built to streamline the teaching and learning process with dedicated dashboards for Admin, Instructors, and Students.
 
 ---
 
@@ -21,7 +21,7 @@
 - View Available Courses and Notes
 - Attempt Quizzes/Tests
 - Track Learning Progress with Graphs
-- Download Certificates after Completing Tests
+- Download Certificates after Completing Quiz.
 
 ### 💬 Smart Chatbot (Q&A Bot)
 - Get Instant Answers to Frequently Asked Questions About LearnSetu
@@ -38,6 +38,6 @@
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript,React.js
-- **Backend:** PHP / Node.js *(depending on your implementation)*
+- **Backend:** Node.js *Express.js*
 - **Database:** MySQL
 - **Charts:** Chart.js / Google Charts *(for progress tracking)*
